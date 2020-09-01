@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherAPIClient</string>
+    <string name="conditionOutput" />
+    <string name="minTemp" />
+    <string name="maxTempOutput" />
+    <string name="maxTemp" />
+    <string name="winDirectionOutput" />
+    <string name="WindSpeedOutput" />
+    <string name="outlookOutput" />
+</resources>
